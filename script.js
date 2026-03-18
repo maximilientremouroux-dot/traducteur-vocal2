@@ -1,5 +1,4 @@
 const btnParler = document.getElementById("btnParler");
-const btnLire = document.getElementById("btnLire");
 const texteOriginal = document.getElementById("texteOriginal");
 const texteTraduit = document.getElementById("texteTraduit");
 const langueSource = document.getElementById("langueSource");
